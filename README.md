@@ -133,7 +133,7 @@ Here’s an example of the generated JSON data:
 
 ---
 
-## **Evaluation Criteria**
+## **Review Metrics**
 
 1. **Functionality**: Accurate and complete extraction of all startup data points.
 2. **Code Quality**: Clean, modular, and well-documented code.
@@ -145,4 +145,4 @@ Here’s an example of the generated JSON data:
 ---
 
 ## **Contact**
-For any questions or assistance, feel free to reach out to [Your Name / Email].
+For any questions or assistance, feel free to reach out to [yogesh7k.2002@gmail.com].
